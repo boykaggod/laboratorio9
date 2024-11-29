@@ -37,6 +37,15 @@ nav a:hover {
     color: #555;
     line-height: 1.6;
 }
+.nuv{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 
 /* Estilos para el pie de página */
 footer {
