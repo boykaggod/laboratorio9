@@ -37,8 +37,8 @@ nav a:hover {
     color: #555;
     line-height: 1.6;
 }
-.container{
-    align-items: center;
+.nue{
+   text-align: center;
     width: 90%;
     margin: 20px auto;
     padding: 15px;
